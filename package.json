@@ -1,0 +1,23 @@
+{
+  "name": "egyshat",
+  "version": "1.0.0",
+  "description": "chat app",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omar685/Egyshat.git"
+  },
+  "keywords": [
+    "egyshat",
+    "chat"
+  ],
+  "author": "Omar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omar685/Egyshat/issues"
+  },
+  "homepage": "https://github.com/Omar685/Egyshat#readme"
+}
